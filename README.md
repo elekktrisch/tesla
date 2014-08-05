@@ -2,7 +2,7 @@ Tesla Model S Handout
 =====================
 
 This repository contains the files which were used for the PDF's discussed at
-http://www.tff-forum.de/viewtopic.php?f=4&t=4011&start=60#p50879
+http://www.tff-forum.de/viewtopic.php?f=4&t=4011
 
 Feel free to update and improve them.
 
