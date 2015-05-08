@@ -9,3 +9,7 @@ Feel free to update and improve them.
 Disclaimer:
 The data was collected from various sources in forums and the Tesla Homepage. 
 Most of the information was not verified by the authors of this handout.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/elekktrisch/tesla/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
